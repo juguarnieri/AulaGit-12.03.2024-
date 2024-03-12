@@ -2,7 +2,7 @@
 //A diferente de a
 
 //Iniciar o valor de A
-let a = 10;
+let a = 9;
 
 //Iniciar o valor de B
 let b = 13
