@@ -15,5 +15,3 @@ while (min != max){
     }
 
 console.log("O numero secreto é: " + numeroSecreto);
-
-
