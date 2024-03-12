@@ -5,7 +5,7 @@
 let a = 9;
 
 //Iniciar o valor de B
-let b = 13
+let b = 45
 //Exibir algo/resultado/variavel
 
 //realiza soma
