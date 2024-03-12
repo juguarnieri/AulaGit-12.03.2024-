@@ -1,0 +1,12 @@
+//Iniciar o valor de A
+let a = 9;
+
+//Iniciar o valor de B
+let b = 12;
+//Exibir algo/resultado/variavel
+
+//realiza soma
+let soma = a + b;
+
+//Exibo resultado
+console.log(soma);

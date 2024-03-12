@@ -1,0 +1,19 @@
+let a = 10;
+let b = -5;
+let i = 0;
+
+if (a < 0) {
+    console.log("Número inválido! Tente novamente!");
+
+} else if (a % 1 != 0) {
+    console.log("Número inválido! Tente Novamente!");
+} else if (b < 0) {
+    console.log("Número inválido! Tente Novamente!");
+} else if (b % 1 != 0) {
+    console.log("Número inválido! Tente Novamente!");
+} else {
+    for (let i = 0; i <= 15; i++) {
+        console.log(a + " x " + i + " = " + (a * i));
+    }
+    console.log("Acima está a tabuada do número " + a + " até o número " + b);
+}

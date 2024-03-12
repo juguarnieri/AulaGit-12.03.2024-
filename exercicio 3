@@ -1,0 +1,12 @@
+//Iniciar o valor de A
+let a = 3;
+
+//Iniciar o valor de B
+let b = 6;
+//Exibir algo/resultado/variavel
+
+//realiza subtração
+let subtração = a - b;
+
+//Exibo resultado
+console.log(subtração);

@@ -1,0 +1,12 @@
+//Iniciar o valor de A
+let a = 7;
+
+//Iniciar o valor de B
+let b = 14;
+//Exibir algo/resultado/variavel
+
+//Realiza divisão
+let dividir = a / b;
+
+//Exibir resultado
+console.log(dividir);

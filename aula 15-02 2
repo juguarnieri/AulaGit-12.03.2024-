@@ -1,0 +1,11 @@
+let a = 1;
+
+console.log("o valor de a:" + a);
+
+While (a == 1); {
+    //bloco de codigo aqui dentro
+    console.log("A vale 1!");
+    a++;
+}
+
+console.log("While terminou")

@@ -1,0 +1,4 @@
+while (true) {
+    //bloco de codigo aqui dentro
+    console.log("looping")
+}
