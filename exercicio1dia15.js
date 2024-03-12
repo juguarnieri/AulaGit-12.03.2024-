@@ -1,5 +1,5 @@
 let a = 70;
-let b = 78; 
+let b = 48; 
 
 let inicio;
 let fim;
