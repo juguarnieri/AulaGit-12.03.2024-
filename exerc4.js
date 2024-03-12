@@ -3,7 +3,7 @@ let a = 5;
 //Exibir algo/resultado/variavel
 
 //realiza multiplicaçao
-let multiplicacao = a * 5;
+let multiplicacao = a * 6;
 
 //Exibo resultado
 console.log(multiplicacao);
