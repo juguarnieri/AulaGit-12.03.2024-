@@ -1,5 +1,5 @@
 //Iniciar idade
-let idade = 3;
+let idade = 9;
 
 //Fazer a condicao: SE ou IF
 if(idade >= 18){
